@@ -5,7 +5,7 @@ A practice project for newbies who want to learn Docker. This project demonstrat
 
 ## 🖼️ Application Preview
 
-![Docker Learning App Interface](./output.jpg)
+![Docker Learning App Interface](./output.png)
 
 ## 🚀 Tech Stack
 
@@ -126,12 +126,6 @@ This project is open source and available under the MIT License.
 
 ## Compose sample application
 
-### Use with Docker Development Environments
-
-You can open this sample in the Dev Environments feature of Docker Desktop version 4.12 or later.
-
-[Open in Docker Dev Environments <img src="../open_in_new.svg" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/react-java-mysql)
-
 ### React application with a Spring backend and a MySQL database
 
 Project structure:
@@ -203,7 +197,6 @@ b176b18fbec4        mysql:8.0.19                "docker-entrypoint.s…"   39 se
 ```
 
 After the application starts, navigate to `http://localhost:3000` in your web browser to get a colorful message.
-![page](./output.jpg)
 
 Stop and remove the containers
 ```
